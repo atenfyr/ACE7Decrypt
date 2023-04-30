@@ -1,4 +1,5 @@
 # ACE7Decrypt v1.1.0
+```
 This is a command-line application that decrypts Ace Combat 7 PC assets.
 Use this for cases in which writing your own code using UAssetAPI or using UAssetGUI's automatic decryption system is not feasible.
 
@@ -16,3 +17,4 @@ Options:
 Example:    ACE7Decrypt decrypt plwp_6aam_a0.uasset plwp_6aam_a0_NEW.uasset
             ACE7Decrypt -R encrypt *.umap C:\*.umap
             ACE7Decrypt -Q decrypt *.uasset *_NEW.uasset
+```
